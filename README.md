@@ -1,1 +1,1 @@
-Travaux pratiques  de première années en analyse des données. Les sujets de Tp sont à l'intérieurs des différents dossiers.
+Travaux pratiques  de premières années en analyse des données. Les sujets de Tp sont à l'intérieur des différents dossiers et portent sur le traitement d'images en utilisant des techniques comme l'ACP.
